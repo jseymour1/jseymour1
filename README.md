@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h4 align="center"><a href="https://context-driven-testing.com/">Context-Driven Testing Advocate</a></h3>
 
-- 🔭&nbsp;I’m currently working at **[BeastCode](https://www.beast-code.com/)**
+- 🔭&nbsp;I’m currently working at **[Beast Code](https://www.beast-code.com/)**
 
 - 🤝&nbsp;I’m automating things with **[WebdriverIO](https://webdriver.io/)**
 
